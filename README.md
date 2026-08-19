@@ -23,4 +23,3 @@ A simple hardware setup to log vibration and motion data in real time using an M
 2. Open the code in the Arduino IDE.
 3. Select board **Arduino MKR WiFi 1010** and flash the code.
 4. Open the Serial Monitor at **115200 baud** to see real-time output.
-5. 
